@@ -2,7 +2,7 @@
 *.o
 *.d
 *.a
-
+.SI
 # Testing things
 blocks/
 lfs
