@@ -18,7 +18,7 @@ unbounded memory?
 
 This document covers the high-level design of littlefs, how it is different
 than other filesystems, and the design decisions that got us here. For the
-low-level details covering every bit on disk, check out [SPEC.md](SPEC.md).
+low-level details covering every bit on disk, check out [SPEC.md](SPEC.md).1
 
 ## The problem
 
