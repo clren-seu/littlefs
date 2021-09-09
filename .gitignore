@@ -10,3 +10,4 @@ test.c
 tests/*.toml.*
 scripts/__pycache__
 .gdb_history
+SI

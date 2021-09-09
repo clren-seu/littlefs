@@ -1,0 +1,2 @@
+#define LFS_YES_TRACE
+//#define LFS_FILEBD_YES_TRACE

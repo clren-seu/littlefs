@@ -4,7 +4,7 @@
  * Copyright (c) 2017, Arm Limited. All rights reserved.
  * SPDX-License-Identifier: BSD-3-Clause
  */
-#include "bd/lfs_filebd.h"
+#include "lfs_filebd.h"
 
 #include <fcntl.h>
 #include <unistd.h>
